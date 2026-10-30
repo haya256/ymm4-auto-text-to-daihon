@@ -1,4 +1,4 @@
-# text_to_ymm4
+# ymm4-auto-text-to-daihon
 
 テキストファイルを [ゆっくりMovieMaker4（YMM4）](https://manjubox.net/ymm4/) の台本CSV形式に変換するPythonスクリプトです。
 
